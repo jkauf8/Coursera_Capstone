@@ -7,3 +7,5 @@ Key factors to look into for when deciding a resturaunt location may include the
 
 ## Data
 I will be using data from Foursquare as well as public New York City data. Foursquare data will allow me to researh if there are competitors in the area and public data given by New York City will give me insights on average income in certain neighborhoods.
+
+### Crime rates data can be found at: https://www1.nyc.gov/site/nypd/stats/crime-statistics/historical.page
