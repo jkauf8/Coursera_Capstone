@@ -1,8 +1,10 @@
 # Coursera_Capstone
 
 ## Introduction/Business Problem
-I would like to help someone who is looking to open a resturaunt in New York. Using data science I would like to recommend where the best place to open their new resturaunt would be.
-Key factors to look into for when deciding a resturaunt location may include the wealth of the area, crime rate of the area, and proximity to competitors. 
+Intro: I would like to help someone who is looking to open a resturaunt in New York. Using data science I would like to recommend where the best place to open their new resturaunt would be. <br />
+Target Audience: This would help those who are looking to open a resturaunt in New York City. <br />
+Business Problem: Key factors to look into for when deciding a resturaunt location may include the wealth of the area, crime rate of the area, and proximity to competitors. 
+
 
 
 ## Data
