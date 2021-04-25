@@ -8,7 +8,7 @@ Business Problem: Key factors to look into for when deciding a restaurant locati
 
 
 ## Data
-I will be using data from Foursquare as well as public New York City data. Foursquare data will allow me to researh if there are competitors in the area and public data given by New York City will give me insights on average income and population certain neighborhoods.
+I will be using data from Foursquare as well as public New York City data. Foursquare data will allow me to research if there are competitors in the area and public data given by New York City will give me insights on average income and population certain neighborhoods.
 
 ### New York Census Data can be found at: https://www.census.gov/quickfacts/fact/table/newyorkcountymanhattanboroughnewyork,bronxcountybronxboroughnewyork,queenscountyqueensboroughnewyork,kingscountybrooklynboroughnewyork,richmondcountystatenislandboroughnewyork,newyorkcitynewyork/HSG010219
 
